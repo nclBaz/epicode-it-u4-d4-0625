@@ -1,10 +1,9 @@
-import entities.Animal;
 import entities.Cat;
 import entities.Dog;
 
 public class Main {
 	public static void main(String[] args) {
-		Animal a = new Animal("Gianni", 40);
+//		Animal a = new Animal("Gianni", 40);
 //		a.sayYourName();
 
 		Cat c1 = new Cat("Tom", 10, false);
